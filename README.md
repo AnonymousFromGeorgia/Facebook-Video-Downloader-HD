@@ -3,7 +3,7 @@
 <br>YouTube - https://youtube.com/AnonymousFromGeorgia
 <br>Facebook - https://facebook.com/anonimaluri
 <br>Github - https://github.com/AnonymousFromGeorgia
-<br>Website - https://anonymousfg.66ghz.com
+<br>Website - https://anonymousfg.rivyt.com
 <br>Twitter - https://twitter.com/anonimaluri
 ## ინსტალაცია და გამოყენება
 
