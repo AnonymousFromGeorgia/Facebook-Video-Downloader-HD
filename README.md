@@ -1,10 +1,10 @@
 # Facebook-Video-Downloader-HD
-ავტორი: გიო რგი
-<br>YouTube - https://youtube.com/AnonymousFromGeorgia
-<br>Facebook - https://facebook.com/anonimaluri
-<br>Github - https://github.com/AnonymousFromGeorgia
-<br>Website - https://anonymousfg.rivyt.com
-<br>Twitter - https://twitter.com/anonimaluri
+
+<p align="left"><a href="https://youtube.com/AnonymousFromGeorgia"><img src="https://i.ibb.co/F48y2tp/rsz-pngitem-5213730.png"><a href="https://anonymousfg.rivyt.com"><img src="https://i.ibb.co/8BH4f6S/Logo.png"><a href="https://facebook.com/anonimaluri"><img src="http://i.imgur.com/P3YfQoD.png">
+  <a href="https://twitter.com/anonimaluri"><img src="http://i.imgur.com/tXSoThF.png">
+    <a href="https://github.com/AnonymousFromGeorgia"><img src="http://i.imgur.com/0o48UoR.png"></p>
+<h6>ავტორი: გიო რგი</h6>
+
 ## ინსტალაცია და გამოყენება
 
 ```bash
