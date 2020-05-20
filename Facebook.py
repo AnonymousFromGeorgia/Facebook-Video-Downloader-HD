@@ -1,5 +1,16 @@
 #!/usr/bin/env python
 
+import os
+os.system('clear')
+
+import signal
+
+def keyboardInterruptHandler(signal, frame):
+    print("\nპროგრამა გაითიშა.".format(signal))
+    exit(0)
+
+signal.signal(signal.SIGINT, keyboardInterruptHandler)
+
 import pyfiglet 
   
 result = pyfiglet.figlet_format("Facebook.com") 
